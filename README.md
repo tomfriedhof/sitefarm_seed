@@ -1,4 +1,4 @@
-# GCR SiteFarm Seed
+# GCR Training on SiteFarm Seed
 
 SiteFarm Seed is a base-profile for Drupal 8 meant for extending by a custom built sub-profile.
 
